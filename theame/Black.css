@@ -1,0 +1,77 @@
+/*black*/
+
+.headersection {  background: #5b5b5b none repeat scroll 0 0;   }
+
+.icon a { background: #4e4e4e none repeat scroll 0 0;}
+
+.searchbtn input[type="text"] {
+	border: 1px solid #A56E0A;   background: #fff;
+	}
+
+.searchbtn input[type="text"] {
+	border: 1px solid #6D6D6D;
+	}
+input[type="submit"] {
+	background: #4e4e4e none repeat scroll 0 0;
+	border: 1px solid #636363;
+	
+}
+.searchbtn input[type="submit"] {
+	border: 1px solid #666666;
+	
+}
+.navsection {
+	background: none repeat scroll 0 0 #4e4e4e;
+	
+}
+
+.navsection ul li {
+	border-left: 1px solid #2e2e2e;
+	border-right: 1px solid #474747;
+
+}
+.contentsection {
+	background: #787878 none repeat scroll 0 0;
+	border: 1px solid #2e2e2e; }
+.maincontent {  background: #4e4e4e none repeat scroll 0 0; }
+.samepost h2 a { color: #fff;}
+.samepost h4 a, .about h4 a { color: #fff;}
+.samepost h2, .about h2 {  color: #fff; }
+.samepost p { color: white; }
+.about p {
+	color: white;
+}
+.sidebar {
+	background: #4e4e4e none repeat scroll 0 0;
+	border: 1px solid #fff;
+	}
+.samesidebar h2 {
+	background: #4e4e4e none repeat scroll 0 0;
+	border-bottom: 2px solid #4e4e4e;
+	color: #fff;
+	
+}
+.samesidebar ul li a {
+	color: #fff;
+
+}
+
+.popular h3 a {
+	color: #fff;
+}
+.popular p {
+	color:#fff;
+}
+.relatedpost h2 {
+	background: #2e2e2e none repeat scroll 0 0;
+	border-bottom: 2px solid #787878 !important;
+	color: #fff !important;
+
+}
+.footersection { background: #2e2e2e; }
+.footermenu ul li a {
+	color: #fff;
+}
+.footersection p {
+	color: #fff;
+}
